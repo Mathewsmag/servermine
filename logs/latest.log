@@ -1,0 +1,24 @@
+[21:01:13] [User Authenticator #57/INFO]: UUID of player TrojanDealer is fa548e8c-31f0-3219-a147-7a5959f8a194
+[21:01:13] [Server thread/INFO]: TrojanDealer joined the game
+[21:01:13] [Server thread/INFO]: TrojanDealer[/191.37.5.192:52805] logged in with entity id 561380 at ([world]342.69999998807907, 17.0, 513.9033410093786)
+[21:01:34] [Server thread/INFO]: TrojanDealer issued server command: /gamemode survival
+[21:01:34] [Server thread/INFO]: [TrojanDealer: Set own game mode to Survival Mode]
+[21:04:29] [Server thread/INFO]: TrojanDealer issued server command: /gamemode creative
+[21:04:29] [Server thread/INFO]: [TrojanDealer: Set own game mode to Creative Mode]
+[21:07:55] [Server thread/INFO]: TrojanDealer issued server command: /gamemode survival
+[21:07:55] [Server thread/INFO]: [TrojanDealer: Set own game mode to Survival Mode]
+[21:09:36] [Server thread/INFO]: TrojanDealer issued server command: /gamemode creative
+[21:09:36] [Server thread/INFO]: [TrojanDealer: Set own game mode to Creative Mode]
+[21:17:03] [Server thread/INFO]: TrojanDealer issued server command: /fill 315 29 506
+[21:17:27] [Server thread/INFO]: TrojanDealer issued server command: /fill 315 29 506 268 30 495 minecraft:blue_stained_glass
+[21:17:27] [Server thread/INFO]: [TrojanDealer: Successfully filled 1145 blocks]
+[21:37:33] [Server thread/WARN]: TrojanDealer was kicked due to keepalive timeout!
+[21:37:33] [Server thread/INFO]: TrojanDealer lost connection: Timed out
+[21:37:33] [Server thread/INFO]: TrojanDealer left the game
+[21:38:13] [User Authenticator #58/INFO]: UUID of player TrojanDealer is fa548e8c-31f0-3219-a147-7a5959f8a194
+[21:38:14] [Server thread/INFO]: TrojanDealer joined the game
+[21:38:14] [Server thread/INFO]: TrojanDealer[/191.37.5.192:52832] logged in with entity id 570150 at ([world]281.40767261213335, 13.425348597403957, 501.3052220414185)
+[21:50:51] [Server thread/INFO]: TrojanDealer issued server command: /gamemode survival
+[21:50:51] [Server thread/INFO]: [TrojanDealer: Set own game mode to Survival Mode]
+[21:55:37] [Server thread/INFO]: TrojanDealer lost connection: Disconnected
+[21:55:37] [Server thread/INFO]: TrojanDealer left the game
